@@ -14,6 +14,7 @@ To understand what makes a password strong and test various password complexitie
 ##  Passwords Tested
 
  Password               | Score 
+ 
  `password123`          | 20%      
  `Password2025`         | 50%       
  `P@ssw0rd2025!`        | 75%      
